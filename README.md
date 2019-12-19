@@ -18,6 +18,6 @@ For at starte projektet skal det åbnes med Node.js. I terminalen skrives der no
 ![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Capture.PNG?raw=true)
 ### Lampe
 #### Dæmpet
-![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Dæmpet.png?raw=true)
+![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/D%C3%A6mpet.jpg?raw=true)
 #### Ikke Dæmpet
-![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Ikkedæmpet.png?raw=true)
+![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Ikked%C3%A6mpet.jpg?raw=true)
