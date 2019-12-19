@@ -1,4 +1,4 @@
-_Lavet af Marinus og Mads _
+_Lavet af Marinus og Mads_
 ## API
 Vi har hentet og brugt en api kaldet Face-API, som gør det muligt at genkende ansigter på mennesker, samt hvilke følelser ansigtet viser.
 
@@ -15,7 +15,7 @@ For at starte projektet skal det åbnes med Node.js. I terminalen skrives der no
 
 ## Photos
 ### Genkendelse af ansigt
-![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/capture.png?raw=true)
+![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Capture.PNG?raw=true)
 ### Lampe
 #### Dæmpet
 ![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Dæmpet.png?raw=true)
