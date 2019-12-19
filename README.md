@@ -11,4 +11,4 @@ Vi bruger derfter Philips Hue apien, som giver os mulighed for at påvirke de fo
 For at starte projektet skal det åbnes med Node.js. I terminalen skrives der node twitterAPI.js og projektet starter på din lokaleport 8080
 
 
-![alt text](https://githubusercontent.com/bm2mhc/Face-api-projekt-2-digitek/raw/master/img.png)
+![alt text](https://githubusercontent.com/bm2mhc/Face-api-projekt-2-digitek/master/img.png)
