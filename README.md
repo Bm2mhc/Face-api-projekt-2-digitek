@@ -1,4 +1,4 @@
-_Lavet af Marinus og Mads_
+_Lavet af Marinus og Mads _
 ## API
 Vi har hentet og brugt en api kaldet Face-API, som gør det muligt at genkende ansigter på mennesker, samt hvilke følelser ansigtet viser.
 
