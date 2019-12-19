@@ -10,5 +10,14 @@ Vi bruger derfter Philips Hue apien, som giver os mulighed for at påvirke de fo
 ## BRUGER GUIDE
 For at starte projektet skal det åbnes med Node.js. I terminalen skrives der node twitterAPI.js og projektet starter på din lokaleport 8080
 
-
+## Tegning
 ![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Untitled.png?raw=true)
+
+## Photos
+### Genkendelse af ansigt
+![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/capture.png?raw=true)
+### Lampe
+#### Dæmpet
+![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Dæmpet.png?raw=true)
+#### Ikke Dæmpet
+![alt text](https://github.com/Bm2mhc/Face-api-projekt-2-digitek/blob/master/Ikkedæmpet.png?raw=true)
